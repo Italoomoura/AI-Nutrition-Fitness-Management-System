@@ -283,4 +283,3 @@ Project requirements and technical documentation are stored in the `docs/` direc
 - Enable DEBUG only for local development.
 - Do not use the Django development server in production.
 
-
